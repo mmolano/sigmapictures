@@ -1,0 +1,384 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Laravel\n"
+"Report-Msgid-Bugs-To: contact@translation.io\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2018-09-13T00:09:58+00:00\n"
+"PO-Revision-Date: 2018-09-13 02:09+0200\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:23
+msgid "TECHNOLOGY"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:25
+msgid ""
+"\n"
+"                    The TECHNOCLEANER uses the paper as a carrier for a specially formulated micro emulsion cleaning agent which is sprayed on each side of the web with a very specific washing sequence for each  program.<br><br>\n"
+"\n"
+"                    The action of the paper running through the press cleans quickly ink and paper lint from blankets, satellite units and web path rollers.<br>The control of the press functions during the process makes the washing of inking and dampening rollers very effective.<br><br>\n"
+"\n"
+"                    The washing unit is composed of two spray bars in a sheet metal chamber.\n"
+"                    The web-up system goes through the washing unit which is located above the reelstand.<br>\n"
+"                    No equipment is installed in the printing unit.<br><br>\n"
+"\n"
+"                    The recommended Fogra-approved cleaning agent ‘‘Webtechnoclean 1905 ’’ is a non voc and non volatile microemulsion of solvent and water, ready for use.\n"
+"\n"
+"\n"
+"                    "
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:26
+msgid ""
+"The TECHNOCLEANER uses the paper as a carrier for a specially formulated micro emulsion cleaning agent which is sprayed on each side of the web with a very specific washing sequence for each  program.\n"
+"\n"
+"                    The action of the paper running through the press cleans quickly ink and paper lint from blankets, satellite units and web path rollers.The control of the press functions during the process makes the washing of inking and dampening rollers very effective.\n"
+"\n"
+"                    The washing unit is composed of two spray bars in a sheet metal chamber.\n"
+"                    The web-up system goes through the washing unit which is located above the reelstand.\n"
+"                    No equipment is installed in the printing unit.\n"
+"\n"
+"                    The recommended Fogra-approved cleaning agent ‘‘Webtechnoclean 1905 ’’ is a non voc and non volatile microemulsion of solvent and water, ready for use."
+msgstr ""
+"Le TECHNOCLEANER utilise une solution de lavage de type microemulsion finement pulvérisée recto/verso sur la bande.<br>\n"
+"Le papier sert de véhicule à l’agent nettoyant vers les groupes d’impression. <br>\n"
+"\n"
+"La friction naturelle créée par le passage de la bande permet un lavage efficace des blanchets, des cylindres de contre pression et des passages papier.\n"
+"Le contrôle des fonctions de la presse pendant le process permet également un lavage très efficace des rouleaux d'encrage et de mouillage. <br><br>\n"
+"\n"
+"L'unité de lavage est composée de deux barres de pulvérisation installées dans une cassette hermétique. \n"
+"Le système d'engagement de bande de la presse passe librement au travers du Technocleaner qui est en général disposé au dessus du dérouleur. \n"
+"Aucun équipement n'est installé dans le groupe d'impression. <br><br>\n"
+"\n"
+"techniweb recommande l'utilisation de la microémulsion Webtechnoclean 1905, agrée Fogra et sans composé organique volatile.\n"
+"Cette solution de lavage est une microémulsion stable de solvant et d'eau prête à l'emploi."
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:26
+msgid ""
+"The TECHNOCLEANER uses the paper as a carrier for a specially formulated micro emulsion cleaning agent which is sprayed on each side of the web with a very specific washing sequence for each  program.<br><br>\n"
+"\n"
+"                    The action of the paper running through the press cleans quickly ink and paper lint from blankets, satellite units and web path rollers.<br>The control of the press functions during the process makes the washing of inking and dampening rollers very effective.<br><br>\n"
+"\n"
+"                    The washing unit is composed of two spray bars in a sheet metal chamber.\n"
+"                    The web-up system goes through the washing unit which is located above the reelstand.<br>\n"
+"                    No equipment is installed in the printing unit.<br><br>\n"
+"\n"
+"                    The recommended Fogra-approved cleaning agent ‘‘Webtechnoclean 1905 ’’ is a non voc and non volatile microemulsion of solvent and water, ready for use."
+msgstr ""
+"Le TECHNOCLEANER utilise une solution de lavage de type microemulsion finement pulvérisée recto/verso sur la bande.<br>\n"
+"Le papier sert de véhicule à l’agent nettoyant vers les groupes d’impression. <br>\n"
+"\n"
+"La friction naturelle créée par le passage de la bande permet un lavage efficace des blanchets, des cylindres de contre pression et des passages papier.\n"
+"Le contrôle des fonctions de la presse pendant le process permet également un lavage très efficace des rouleaux d'encrage et de mouillage. <br><br>\n"
+"\n"
+"L'unité de lavage est composée de deux barres de pulvérisation installées dans une cassette hermétique. \n"
+"Le système d'engagement de bande de la presse passe librement au travers du Technocleaner qui est en général disposé au dessus du dérouleur. \n"
+"Aucun équipement n'est installé dans le groupe d'impression. <br><br>\n"
+"\n"
+"techniweb recommande l'utilisation de la microémulsion Webtechnoclean 1905, agrée Fogra et sans composé organique volatile.\n"
+"Cette solution de lavage est une microémulsion stable de solvant et d'eau prête à l'emploi."
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:49
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:294
+msgid "APPLICATIONS"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:52
+msgid "BLANKET TO BLANKET"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:55
+msgid ""
+"\n"
+"                          - Blankets<br>\n"
+"                          - Inking rollers<br>\n"
+"                          - Dampening rollers<br>\n"
+"                          - Web leads<br><br>\n"
+"                        "
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:69
+msgid "SATELLITE 9 AND 10 CYLINDERS"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:73
+msgid ""
+"\n"
+"                          - Blankets<br>\n"
+"                          - Common impression cylinders<br>\n"
+"                          - Inking rollers<br>\n"
+"                          - Dampening rollers<br>\n"
+"                          - Web leads<br><br>"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:86
+msgid "WATERLESS"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:90
+msgid ""
+"\n"
+"                          - Blankets<br>\n"
+"                          - Plates<br>\n"
+"                          - Web leads<br><br>\n"
+"\n"
+"                            "
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:104
+msgid "ALL"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:108
+msgid ""
+"\n"
+"                           - Web width change<br>\n"
+"                           - Start up <br>"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:117
+msgid "Applications"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:174
+msgid "ADVANTAGES"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:176
+msgid ""
+"\n"
+"                        Simplicity<br><br>\n"
+"                        Versatility<br><br>\n"
+"                        User’s friendly<br><br>\n"
+"                        Maintenance free<br><br>\n"
+"                        Start up/Intermediate/Run down washes<br><br>\n"
+"                        Short programs<br><br>\n"
+"                        Automatic procedures<br><br>\n"
+"                        Green process<br><br>\n"
+"                        "
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:190
+msgid " Return On Investissement"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:195
+msgid "Download technocleaner brochure"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:218
+msgid "Manning"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:219
+msgid "- No more manual washing operation"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:220
+msgid " - Simplification of press cleaning procedures"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:223
+msgid "Productivity"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:224
+msgid "- Wash at any time during production with no press stop"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:225
+msgid "- Less web breaks because of a cleaner machine"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:226
+msgid "- Start-up assistance"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:227
+msgid "- Easier, safer and faster web width changes"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:228
+msgid "- Paper stays in the machine during the wash and after     production"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:232
+msgid "Maintenance"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:233
+msgid " - Free-of-maintenance systeme"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:234
+msgid " - Open access top printing unit"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:235
+msgid " - Simplification of maintenance and cleaning procedures"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:236
+msgid " - No more heavy maintenance for auxiliaries"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:240
+msgid "Spare parts"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:241
+msgid " - No spare parts cost involved"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:245
+msgid "Consumables"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:246
+msgid " - Lower consumption of cleaning agent"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:247
+msgid " - No cloth, no brush, no mechanical parts to change"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:248
+msgid " - Non aggressive process for blankets and rollers"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:249
+msgid " - No rags and manuel wash"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:253
+msgid "Paper Waste"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:254
+msgid " - Production and start-up washes use normal waste"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:255
+msgid " - Final 'All in one wash' for 100 - 150 revolutions"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:256
+msgid " - Reduction in printed waste"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:260
+msgid "Print quality"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:261
+msgid "- Short wash at any time during production"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:262
+msgid "- Optimum cleanliness required for printing"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:266
+msgid "Ecology"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:268
+msgid "- No used solvent and ink to recycle"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:269
+msgid "- No energy consumption"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:273
+msgid "Safety"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:274
+msgid "- Better working conditions for operators"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:275
+msgid "- Non voc and non volatile cleaning agent"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:279
+msgid "Payback"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:280
+msgid "- Payback within 1 to 3 years"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:284
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:323
+msgid "Close"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:301
+msgid "BLANKETS / PLATES"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:304
+msgid "INKING ROLLERS"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:307
+msgid "DAMP ROLLERS"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:310
+msgid "SATELLITES"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:313
+msgid "WEB LEADS"
+msgstr ""
+
+#: resources\views\pages\cleaning_systems_newspaper.blade.php:316
+msgid "WEB WIDTH CHANGES"
+msgstr ""
+
+#: resources\views\pages\index.blade.php:54
+msgid "A DIFFERENT WORLD"
+msgstr "UN AUTRE MONDE"
+
+#: resources\views\pages\index.blade.php:57
+msgid ""
+"Paper and printing industries need to adapt to the society\n"
+"                            evolutions we are facing now with digital revolution."
+msgstr "Les industries graphiques et notamment la presse doivent s'adapter aux évolutions de nos sociétés et à la révolution digitale que nous vivons."
+
+#: resources\views\pages\index.blade.php:65
+msgid "A DIFFERENT PHILOSOPHY"
+msgstr "UNE AUTRE PHILOSOPHIE"
+
+#: resources\views\pages\index.blade.php:69
+msgid ""
+"From now on, a technology must be simple to use, cost effective,\n"
+"                            eco friendly, and provide years of reliable production."
+msgstr "A notre époque, une technologie se doit d'être facile d'utilisation, optimisée en terme de coûts, respectueuse de l'environnement, pendant des années de production."
+
+#: resources\views\pages\index.blade.php:79
+msgid "A DIFFERENT SOLUTION"
+msgstr "UNE AUTRE SOLUTION"
+
+#: resources\views\pages\index.blade.php:81
+msgid ""
+"Automatic cleaning solutions from the past\n"
+"                            were heavy capital expenditure with high operational cost.\n"
+"                            The situation doesn’t allow anymore the choice of inadequate solutions."
+msgstr "Les solutions de nettoyage automatique proposées dans le passé impliquent des investissements importants et des coûts de fonctionnement élevés à tous les niveaux. La situation actuelle ne permet plus le choix de solutions inappropriées."
+
+#: resources\views\pages\index.blade.php:97
+msgid "ABOUT US"
+msgstr "Qui sommes nous ?"
+
+#: resources\views\pages\index.blade.php:98
+msgid "Established in 1999 in the south of Paris, techniweb has developped along the years a very different cleaning process for the newspaper and commercial web presses. These evolutions lead now to a revolution in the cleaning procedures and methods in the newspaper industry. The key was to use the web for the whole process with a minimum impact on the paper waste. Only one system per web is now able to provide a global cleaning of blankets, inking/dampening rollers, guide rollers and common impression cylinders on newspaper presses. Within 18 years of development, more than 1000 webs have been equipped with Technocleaners around the world, on every kind of newspaper presses."
+msgstr "Depuis 1999, techniweb développe des procédés de nettoyage différents pour les rotatives de presses et commerciales. Ces évolutions amènent à une révolution dans les procédures et les méthodes de nettoyage automatique des rotatives de presse journal. L'idée principale était d'utiliser la bande de papier pour le process avec un impact minimum sur la gâche. En presse journal, un seul système par bande est capable d'effectuer un lavage global des blanchets, des rouleaux d'encrage/mouillage, des passages papier ainsi que des cylindres de contre pression. En 18 ans de développement continu, plus de 1000 bandes ont été équipées avec des Technocleaners, dans le monde entier, et sur tous types de rotatives de presse."
