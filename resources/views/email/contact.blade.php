@@ -21,5 +21,6 @@
     <h3>Afin de vous connecter veuillez utiliser ce mot de passe : </h3>
 
 <p>Votre mot de passe est : {{ $password }} </p>
+<p>RDV sur ce lien : https://vertical-lines.000webhostapp.com/user</p>
 
 </div>
