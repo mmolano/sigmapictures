@@ -212,7 +212,7 @@ class NewsController extends Controller
         User::create(request(['email', 'name', 'secname', 'password']));
 
         Mail::send('email.contact', $data, function($message) use ($data){
-            $message->from('sigma@gmail.com');
+            $message->from('sigmapictest201@gmail.com');
             $message->to($data['email']);
             $message->subject('Hello');
         });
